@@ -1,2 +1,2 @@
-# ds
-A course of data structure in Gyeonsang Univ. 
+# AI
+A course of AI in Gyeonsang Univ. 
